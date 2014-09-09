@@ -1,0 +1,5 @@
+main :: Int =
+    let loop_forever :: Int = letfun loop_forever :: Int = loop_forever;
+    in
+        let x :: Int = loop_forever; 
+        in 1;

@@ -1,0 +1,9 @@
+main :: Int =
+	let a :: Int = 12; in
+		(letrec a :: Int = 3;
+			b :: Int->Int = letfun poo :: Int->Int x = a;
+		in 
+			let a :: Int = 
+				4;
+			in 
+				letfun asdf :: Int -> Int = b) 6;

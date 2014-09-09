@@ -1,5 +1,4 @@
 main :: [Int] =
-	letrec  zeroMem :: [Int] = Cons 0 zeroMem;
 		
 		halt    :: Int = 0;
 		left    :: Int = 1;
