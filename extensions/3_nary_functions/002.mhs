@@ -1,0 +1,4 @@
+main :: Int
+    = let prod :: (Int -> Int ->Int ->Int -> Int)
+        = letfun prod :: (Int -> Int ->Int ->Int -> Int) a b c d = a *b *c *d;
+    in prod 4 4 4 4;
